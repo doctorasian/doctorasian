@@ -1,4 +1,4 @@
-<h2>Hey there! 𖡎</h2>
+<h2>⁀➴ looks like you've landed on my profile </h2>
 
 💻 Software Engineering student at Drexel University<br>
 🎮 Currently creating a game engine in C++<br>
