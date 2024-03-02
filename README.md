@@ -1,6 +1,7 @@
 <h2>⁀➴ looks like you've landed on my profile! </h2>
 
 💻 Software Engineering student at Drexel University<br>
+📖 I like learning about Mathematics and Physics<br>
 🎮 Currently creating a game engine in C++<br>
 
 <h2> ➤ How to reach me: </h2>
