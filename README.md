@@ -1,7 +1,7 @@
-### Howdy! 🤠
+<h2>Hey there!</h2>
 
-A sophomore student at Drexel University.<br>
-I'm currently working on writing a game engine in C++ 🎮.<br>
+I'm a Software Engineering student at Drexel University.<br>
+Currently creating a game engine in C++ 🎮.<br>
 
 <h2> How to reach me: </h2>
 <p align="center">
