@@ -1,9 +1,3 @@
-<h2>⁀➴ looks like you've landed on my profile! </h2>
-
-💻 Software Engineering student at Drexel University<br>
-📖 Interested in Mathematics and Physics<br>
-🎮 Currently creating a game engine in C++<br>
-
 <h2> ➣ How to reach me: </h2>
 <p align="center">
  <a href="https://www.linkedin.com/in/francis-nguyen-b3b929216/"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="LinkedIn" /></a>
